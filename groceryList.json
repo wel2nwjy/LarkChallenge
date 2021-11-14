@@ -1,0 +1,81 @@
+{
+    "grocery":[
+        {
+            "name":"Apples",
+            "quantity":"1 Kg",
+            "unit":"1",
+            "dept":"Fruits",
+            "notes":"If not red but green apples."
+        },
+        {
+            "name":"Nuts",
+            "quantity":"2 packets",
+            "unit":"4",
+            "dept":"Snacks",
+            "notes":"Mixed and cashew"
+        },
+        {
+            "name":"Milk",
+            "quantity":"0.5 ltr",
+            "unit":"3",
+            "dept":"Diary",
+            "notes":"GoodLife"
+        },
+        {
+            "name":"Cellery",
+            "quantity":"1 bunch",
+            "unit":"1",
+            "dept":"Veggies",
+            "notes":""
+        },
+        {
+            "name":"Tomatoes",
+            "quantity":"1.5 kg",
+            "unit":"1",
+            "dept":"Veggies",
+            "notes":"Big and small ones"
+        },
+        {
+            "name":"Onions",
+            "quantity":"1 Kg",
+            "unit":"2",
+            "dept":"Veggies",
+            "notes":"Medium Size"
+        },
+        {
+            "name":"Bread",
+            "quantity":"1",
+            "unit":"1",
+            "dept":"Bakery",
+            "notes":"Elite big"
+        },
+        {
+            "name":"Oranges",
+            "quantity":"1.5 Kg",
+            "unit":"1",
+            "dept":"Fruits",
+            "notes":"American"
+        },
+        {
+            "name":"Carrots",
+            "quantity":"500g",
+            "unit":"2",
+            "dept":"Veggies",
+            "notes":"Freshly cut"
+        },
+        {            
+            "name":"Cookies",
+            "quantity":"1 Packet",
+            "unit":"6",
+            "dept":"Snacks",
+            "notes":"Danish Cookies"
+        },
+        {            
+            "name":"Butter",
+            "quantity":"1 Packet",
+            "unit":"3",
+            "dept":"Diary",
+            "notes":"Amul"
+        }
+    ]
+}
